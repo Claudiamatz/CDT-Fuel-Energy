@@ -1,0 +1,177 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 145px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 69px -21px 40px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 1260px;
+}
+
+.u-section-2 .u-text-1 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-2 .u-text-3 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 20px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-text-5 {
+  margin: 21px 0 0;
+}
+
+.u-section-2 .u-text-6 {
+  margin: 20px 0 60px;
+}.u-section-3 .u-sheet-1 {
+  min-height: 1307px;
+}
+
+.u-section-3 .u-text-1 {
+  margin-bottom: 0;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-3 .u-text-3 {
+  margin: 20px 0 0;
+}
+
+.u-section-3 .u-text-4 {
+  margin: 20px 0 0;
+}
+
+.u-section-3 .u-text-5 {
+  margin: 20px 587px 0 0;
+}
+
+.u-section-3 .u-text-6 {
+  margin: 20px 0 60px;
+}
+
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-5 {
+    margin-right: 387px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-5 {
+    margin-right: 167px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-5 {
+    margin-right: 0;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 1329px;
+}
+
+.u-section-4 .u-text-1 {
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-text-3 {
+  margin: 20px 14px 0 0;
+}
+
+.u-section-4 .u-text-4 {
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-text-5 {
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-text-6 {
+  margin: 21px 0 59px;
+}
+
+.u-section-4 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-text-3 {
+    margin-right: 0;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 908px;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 20px auto 0 0;
+}
+
+.u-section-5 .u-text-2 {
+  margin: 21px auto 0 0;
+}
+
+.u-section-5 .u-text-3 {
+  margin: 20px 0 0;
+}
+
+.u-section-5 .u-text-4 {
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 60px;
+}
+
+.u-section-5 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}.u-section-6 .u-sheet-1 {
+  min-height: 818px;
+}
+
+.u-section-6 .u-text-1 {
+  margin: 22px 0 0;
+}
+
+.u-section-6 .u-text-2 {
+  margin: 21px 0 0;
+}
+
+.u-section-6 .u-text-3 {
+  margin: 21px 0 60px;
+}
+
+.u-section-6 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
