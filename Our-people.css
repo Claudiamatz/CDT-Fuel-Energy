@@ -2163,7 +2163,7 @@
 
 .u-section-10 .u-image-6 {
   height: 213px;
-  object-position: 50% 0%;
+  object-position: 50% 19.94%;
   margin: 0 1px;
 }
 
@@ -3178,7 +3178,6 @@
   grid-template-columns: 100%;
   min-height: 407px;
   grid-gap: 0px 0px;
-  grid-auto-columns: 100%;
 }
 
 .u-section-11 .u-container-layout-1 {
@@ -3187,7 +3186,7 @@
 
 .u-section-11 .u-image-1 {
   height: 213px;
-  width: 225px;
+  width: 227px;
   margin: 0 auto 0 0;
 }
 
