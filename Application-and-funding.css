@@ -211,7 +211,7 @@
 .u-section-1 .u-text-1:before {
   transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, background-size, background-position;
 }.u-section-2 .u-sheet-1 {
-  min-height: 306px;
+  min-height: 256px;
 }
 
 .u-section-2 .u-text-1 {
@@ -224,15 +224,19 @@
 }
 
 .u-section-2 .u-text-3 {
-  margin: 20px 0 59px;
+  margin: 20px 0 60px;
 }
 
 .u-section-2 .u-btn-1 {
+  font-family: 'Open Sans',sans-serif;
+  font-size: 1rem;
   background-image: none;
   padding: 0;
 }
 
 .u-section-2 .u-btn-2 {
+  font-family: 'Open Sans',sans-serif;
+  font-size: 1rem;
   background-image: none;
   padding: 0;
 }
@@ -243,16 +247,6 @@
 }
 
 .u-section-2 .u-btn-4 {
-  background-image: none;
-  padding: 0;
-}
-
-.u-section-2 .u-btn-5 {
-  background-image: none;
-  padding: 0;
-}
-
-.u-section-2 .u-btn-6 {
   background-image: none;
   padding: 0;
 }
