@@ -175,4 +175,50 @@
 .u-section-7 .u-btn-1 {
   background-image: none;
   padding: 0;
+}.u-section-8 .u-sheet-1 {
+  min-height: 583px;
+}
+
+.u-section-8 .u-text-1 {
+  margin: 47px 0 0;
+}
+
+.u-section-8 .u-text-2 {
+  margin: 22px 0 0;
+}
+
+.u-section-8 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-8 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-8 .u-btn-3 {
+  background-image: none;
+  padding: 0;
+}.u-section-9 .u-sheet-1 {
+  min-height: 1271px;
+}
+
+.u-section-9 .u-text-1 {
+  margin: 22px 0 0;
+}
+
+.u-section-9 .u-text-2 {
+  margin: 23px 0 0;
+}
+
+.u-section-9 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-9 .u-text-2 {
+    margin-bottom: 60px;
+  }
 }
