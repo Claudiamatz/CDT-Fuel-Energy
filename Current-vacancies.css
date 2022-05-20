@@ -221,4 +221,34 @@
   .u-section-9 .u-text-2 {
     margin-bottom: 60px;
   }
+}.u-section-10 .u-sheet-1 {
+  min-height: 895px;
+}
+
+.u-section-10 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-10 .u-text-2 {
+  margin: 25px 0 0;
+}
+
+.u-section-10 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-10 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-10 .u-text-1 {
+    margin-top: 60px;
+  }
+
+  .u-section-10 .u-text-2 {
+    margin-bottom: 60px;
+  }
 }
