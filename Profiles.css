@@ -449,4 +449,36 @@
   .u-section-37 .u-text-1 {
     margin-top: 60px;
   }
+}.u-section-38 .u-sheet-1 {
+  min-height: 186px;
+}
+
+.u-section-38 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-38 .u-text-2 {
+  margin: 30px 0 51px;
+}
+
+@media (max-width: 767px) {
+  .u-section-38 .u-text-1 {
+    margin-top: 60px;
+  }
+}.u-section-39 .u-sheet-1 {
+  min-height: 186px;
+}
+
+.u-section-39 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-39 .u-text-2 {
+  margin: 30px 0 51px;
+}
+
+@media (max-width: 767px) {
+  .u-section-39 .u-text-1 {
+    margin-top: 60px;
+  }
 }
